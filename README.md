@@ -1,11 +1,11 @@
 <div align="center">
   
-# **💫𝙷𝚒 👋, 𝙸'𝚖 𝙹𝚊𝚝𝚒𝚗 𝚅𝚒𝚜𝚑𝚠𝚊𝚔𝚊𝚛𝚖𝚊**      
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 𝙷𝚒 👋, 𝙸'𝚖 𝙹𝚊𝚝𝚒𝚗 𝚅𝚒𝚜𝚑𝚠𝚊𝚔𝚊𝚛𝚖𝚊 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+*“</> Programming is the art of turning ‘what if’ into ‘it works’ 🤔➡️✅”* 
+
+🎓 **Second Year BCA Student** &nbsp;|&nbsp; 💻 **Aspire Data Science** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast** 
 </div>
-
-> 💜 *“Programming is the art of turning ‘what if’ into ‘it works’ 🤔➡️✅”*
-
-🎓 **Second Year BCA Student** &nbsp;|&nbsp; 💻 **Aspire Data Science** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
 
 ---
 
@@ -36,12 +36,10 @@
 - 👯 **I’m looking to collaborate on:** Data Analysts & ML projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vishwakarmajatin084@gmail.com
-  
-<br/>
+
 <div align="center"> 
-  
-![Profile Views](https://komarev.com/ghpvc/?username=jatinvish-01&color=a855f7&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/jatinvish-01?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/jatinvish-01)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 </div>
 
 ---
@@ -64,6 +62,12 @@
 ![](https://github-readme-stats.shion.dev/api?username=jatinvish-01&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jatinvish-01&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jatinvish-01&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center"> 
+  
+![Profile Views](https://komarev.com/ghpvc/?username=jatinvish-01&color=a855f7&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/jatinvish-01?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/jatinvish-01)
+</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
