@@ -10,10 +10,11 @@ Email Me 👉 ✉️ **vishwakarmajatin084.com** For Collaboration/Project or An
 - 📫 **How to reach me:** vishwakarmajatin084@gmail.com
 - 😄 **Pronouns:** Jetuu
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
+  
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=jatinvish-01&color=a855f7&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/jatinvish-01?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/jatinvish-01)
-
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jatinvish09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-vishwakarma-682610333/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jetuuvishh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwakarmajatin084@gmail.com) 
