@@ -1,3 +1,5 @@
+
+<div align="center">
 # 💫 Hi 👋, I'm Jatin Vishwakarma
 **A passionate Data Scientics || AI/ML Enthusiast || Gen AI**
 
@@ -10,8 +12,9 @@ Email Me 👉 ✉️ **vishwakarmajatin084.com** For Collaboration/Project or An
 - 📫 **How to reach me:** vishwakarmajatin084@gmail.com
 - 😄 **Pronouns:** Jetuu
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-  
-<div align="center">
+
+<br/><br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=jatinvish-01&color=a855f7&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/jatinvish-01?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/jatinvish-01)
 </div>
