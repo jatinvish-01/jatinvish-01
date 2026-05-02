@@ -1,11 +1,8 @@
 <div align="center">
-  
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 𝙷𝚒 👋, 𝙸'𝚖 𝙹𝚊𝚝𝚒𝚗 𝚅𝚒𝚜𝚑𝚠𝚊𝚔𝚊𝚛𝚖𝚊 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=4000&pause=800&color=F78C13&center=true&width=1000&height=70&lines=Hi%F0%9F%91%8B%F0%9F%8F%BBthere%2C+Jatin+Vishwakarma+;Aspiring+Data+Scientist+%7C+AI%2FML+Practicing+;Python+%E2%80%A2+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP+;Turning+Data+into+Decision+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 *“</> Programming is the art of turning ‘what if’ into ‘it works’ 🤔➡️✅”* 
-
-🎓 **Second Year BCA Student** &nbsp;|&nbsp; 💻 **Aspire Data Science** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast** 
-</div>
 
 ---
 
