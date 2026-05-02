@@ -3,6 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=4000&pause=800&color=F78C13&center=true&width=1000&height=70&lines=Hi%F0%9F%91%8B%F0%9F%8F%BBthere%2C+Jatin+Vishwakarma+;Aspiring+Data+Scientist+%7C+AI%2FML+Practicing+;Python+%E2%80%A2+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP+;Turning+Data+into+Decision+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 *“</> Programming is the art of turning ‘what if’ into ‘it works’ 🤔➡️✅”* 
+</div>
 
 ---
 
