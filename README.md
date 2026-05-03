@@ -99,29 +99,25 @@
 -->
 ###  Social & Community
 
+<div style="display: flex; gap: 12px; align-items: center;">
+      
+  <a href="https://discord.com/users/jatinvish09" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="45" height="45" />
+  </a>
 
-<table align="center" class="table table-dark">
-  <tr>
-    <td align="center" width="90">
-      <a href="https://discord.com/users/jatinvish09" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="55" height="55" />
-        <br>Discord
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://x.com/Jetuuvishh" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="X" width="55" height="55" />
-        <br>X
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.linkedin.com/in/jatin-vishwakarma-682610333/" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" height="55" />
-        <br>LinkedIn
-      </a>
-    </td>
-  </tr>
-</table> 
+  <a href="https://x.com/Jetuuvishh" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" width="45" height="45" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jatin-vishwakarma-682610333/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
+  </a>
+
+  <a href="vishwakarmjatin084@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="45" height="45" />
+  </a>
+
+</div>
 
 
 <div align="center"> 
