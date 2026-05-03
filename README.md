@@ -57,9 +57,7 @@
 <div align="center">    
   
 ## 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-![](https://github-readme-stats.shion.dev/api?username=jatinvish-01&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jatinvish-01&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jatinvish-01&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jatinvish-01&theme=carbonfox&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=550" alt="GitHub Streak" /></a><br/>
 
 <div align="center"> 
   
