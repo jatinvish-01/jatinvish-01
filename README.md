@@ -123,9 +123,11 @@
     </td>
   </tr>
 </table> -->
-
+<div align="center"> 
+  
 [<img src="https://skillicons.dev/icons?i=discord" width="45"/>](https://discord.com/users/jatinvish09) [<img src="https://skillicons.dev/icons?i=twitter" width="45"/>](https://x.com/Jetuuvishh) [<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>](https://www.linkedin.com/in/jatin-vishwakarma-682610333/) [<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45"/>](mailto:vishwakarmjatin084@gmail.com)
 
+</div>
 
 <div align="center"> 
   
