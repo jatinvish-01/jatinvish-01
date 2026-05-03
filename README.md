@@ -129,6 +129,8 @@
 
 </div>
 
+<br>
+
 <div align="center"> 
   
 ![Profile Views](https://komarev.com/ghpvc/?username=jatinvish-01&color=a855f7&style=for-the-badge&label=Profile+Views)
