@@ -20,9 +20,13 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 ## 👨‍💻 About Me
 
+<<<<<<< Updated upstream
 <p align="center">
   <img src="https://raw.githubusercontent.com/jatinvish-01/jatinvish-01/main/banner/banner_2.svg" width="100%"/>
 </p>
+=======
+<meta http-equiv="refresh" content="0; url=banner/banner_2.svg">
+>>>>>>> Stashed changes
 
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
