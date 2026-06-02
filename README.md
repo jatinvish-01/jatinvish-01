@@ -108,6 +108,10 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FOOTER                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:243B55,100:0f0f0f&height=140&section=footer" width="100%"/>
 
 </div>
