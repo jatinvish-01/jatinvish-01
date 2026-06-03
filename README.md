@@ -128,8 +128,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jatinvish-01&color=a855f7&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/jatinvish-01?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/jatinvish-01)
 
-**⚡ Building Intelligent AI Systems Today — For a Smarter Tomorrow ⚡**
 </div>
+
+**⚡ Building Intelligent AI Systems Today — For a Smarter Tomorrow ⚡**
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
