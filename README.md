@@ -98,11 +98,12 @@
 <!--                    Activity Graph                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 # ⚡Activity Graph
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinvish-01&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+</p> -->
 <!-- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -->
@@ -130,7 +131,10 @@
 
 </div>
 
+<div align="center">
+  
 **⚡ Building Intelligent AI Systems Today — For a Smarter Tomorrow ⚡**
+</div>
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
