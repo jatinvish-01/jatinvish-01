@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 🔭 Currently working on: [Backend project (Task)]<br>🤝 Open to collaborating on: [Open-source projects, web apps, AI/ML tools]<br>🆘 Looking for help with: [ML system design or performance optimization]<br>🌱 Currently learning: [ML, Backend, DSA<br>💬 Ask me about: [Your strongest skills, e.g. React, Python, API design]<br>⚡ Fun fact: [I debug best at 2 AM with a cup of tea]
 
 
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=jatinvish-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=jatinvish-01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jatinvish-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jatinvish-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
